@@ -1,5 +1,8 @@
+import sys
 result=[]
-with open('words.txt','r') as f:
+
+input_file = str(sys.argv[1])
+with open(input_file,'r') as f:
     for line in f:
         result = line.split()
 s = []

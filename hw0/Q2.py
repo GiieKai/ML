@@ -1,5 +1,7 @@
+import sys
 from PIL import Image
-im = Image.open( "westbrook.jpg" )
+input_file = str(sys.argv[1])
+im = Image.open(input_file)
 pix = im.load()
 r, g, b = im.split()
 rpix = r.load()
