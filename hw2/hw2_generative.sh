@@ -1,0 +1,1 @@
+python hw2_generative $1 $2 $3 $4 $5 $6
