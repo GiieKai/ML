@@ -1,4 +1,4 @@
-﻿#中文QA
+#中文QA
 
 ##Packages & Version
 * json
