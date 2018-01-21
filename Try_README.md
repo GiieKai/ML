@@ -29,4 +29,6 @@ cd src/
 python final.py
 ```
 
-
+Script usage:
+----------------
+bash  final.sh <test.csv path> <prediction file path>
