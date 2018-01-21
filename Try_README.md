@@ -12,13 +12,15 @@ Packages & Version
 	- metrics
 	- TfidfVectorizer
 
-##RUN
+RUN
+------
 ```
 cd src/
 python final.sh
 ```
 
-##shell檔裡面包含下列：
+shell檔裡面包含下列：
+-------------------------
 * 自動下載檔案
 	- train 資料
 	- test 資料
