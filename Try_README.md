@@ -16,7 +16,7 @@ RUN
 ------
 ```
 cd src/
-python final.sh
+python final.py
 ```
 
 專案使用資料包含下列：
