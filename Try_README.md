@@ -26,4 +26,4 @@ shell檔裡面包含下列：
 	- test 資料
 	- jieba 資料庫
 	
-*python 3.5版本的檔案
+* python 3.5版本的檔案
